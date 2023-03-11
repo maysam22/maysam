@@ -1,0 +1,33 @@
+#background {
+    margin: auto;
+    height: 550px;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-image: url('../image/leeds.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#title {
+    margin-top: 150px;
+    font: 3em italic;
+    color: #fd3333;
+    text-shadow: +1px +1px;
+}
+
+#subtitle {
+    color: blue;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#description {
+    color: rgb(187, 13, 13);
+    font-size: small;
+    text-shadow: -1px +1px;
+    font: 1.3em sans-serif;
+    width: 900px;
+    margin: auto;
+}
